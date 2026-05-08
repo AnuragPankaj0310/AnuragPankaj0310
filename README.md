@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Anurag Kumar Pankaj 👋<br><br>
 - 🔭 Currently working on **LLMs and RAG**
 - 🌱 Exploring **Generative AI and Multimodal AI**
