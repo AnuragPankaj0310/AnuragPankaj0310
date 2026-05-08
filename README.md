@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Anurag Kumar Pankaj 👋<br><br>B.Tech Artificial Intelligence · SVNIT Surat '27<br><br>AI enthusiast passionate about Deep Learning, Computer Vision, and Generative AI.<br>I love building intelligent systems and exploring the frontier of LLMs and multimodal AI.<br><br>Before AI, I was an electrical trainee at Tata Steel.<br>Off-screen, I'm deep in a manga or web novel.
 
 
